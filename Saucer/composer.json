@@ -1,0 +1,9 @@
+{
+    "name": "dragonfly/saucer",
+    "description": "DragonFly Game Engine - Saucer Game",
+    "autoload": {
+        "psr-4": {
+            "Saucer\\": "src/"
+        }
+    }
+}

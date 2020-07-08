@@ -1,0 +1,9 @@
+{
+    "name": "DragonFlyEgg",
+    "description": "Chapter 4 Test",
+    "autoload": {
+        "psr-4": {
+            "DragonFlyEgg\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "mmoray/dragonfly",
+    "description": "PHP Text Based Game Engine.",
+    "autoload": {
+        "psr-4": {
+            "DragonFly\\": "DragonFly/"
+        }
+    }
+}

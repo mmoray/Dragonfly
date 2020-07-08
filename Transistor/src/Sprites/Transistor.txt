@@ -1,0 +1,25 @@
+<HEADER>
+frames 2
+width 3
+height 5
+color green
+bgcolor black
+slowdown 4
+</HEADER>
+<BODY>
+   
+ P 
+ P 
+ P 
+   
+end
++-+
+|P|
+|P|
+|P|
++-+
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

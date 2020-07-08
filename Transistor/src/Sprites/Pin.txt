@@ -1,0 +1,17 @@
+<HEADER>
+frames 2
+width 1
+height 1
+color white
+bgcolor black
+slowdown 8
+</HEADER>
+<BODY>
+P
+end
+ 
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

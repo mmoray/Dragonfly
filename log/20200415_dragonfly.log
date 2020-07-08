@@ -1,0 +1,28 @@
+[2020-04-15 20:33:24] INFO: *****************************************************
+[2020-04-15 20:33:24] INFO: *****************************************************
+[2020-04-15 20:33:24] INFO: *      ____                              ______     *
+[2020-04-15 20:33:24] INFO: *     / __ \                            / __/ /     *
+[2020-04-15 20:33:24] INFO: *    / / / /___ ___  ____  ____  ____  / /_/ /_  __ *
+[2020-04-15 20:33:24] INFO: *   / / / / __/ __ `/ __ `/ __ \/ __ \/ __/ / / / / *
+[2020-04-15 20:33:24] INFO: *  / /_/ / / / /_/ / /_/ / /_/ / / / / / / / /_/ /  *
+[2020-04-15 20:33:24] INFO: * /_____/_/  \__,_/\__, /\____/_/ /_/_/ /_/\__, /   *
+[2020-04-15 20:33:24] INFO: *                 ___/ /                  ___/ /    *
+[2020-04-15 20:33:24] INFO: *                /____/                  /____/     *
+[2020-04-15 20:33:24] INFO: *****************************************************
+[2020-04-15 20:33:24] INFO: * Run time: 2020-04-15 20:33:24                     *
+[2020-04-15 20:33:24] INFO: *****************************************************
+[2020-04-15 20:33:24] INFO: *****************************************************
+[2020-04-15 20:33:24] INFO: Starting up df::LogManager: {'type': 'df::LogManager','started': ,'eventCount': 0,'events': [],'flush': 1,'file': '/Users/matt.moray/Sites/dragonfly/src/DragonFly/Manager/../../../log/20200415_dragonfly.log'}
+[2020-04-15 20:33:24] INFO: Starting up df::WorldManager: {'type': 'df::WorldManager','started': ,'eventCount': 0,'events': []}
+[2020-04-15 20:33:24] INFO: Starting up df::DisplayManager: {'type': 'df::DisplayManager','started': ,'eventCount': 0,'events': []}
+[2020-04-15 20:33:24] INFO: Starting up df::InputManager: {'type': 'df::InputManager','started': ,'eventCount': 0,'events': []}
+[2020-04-15 20:33:24] INFO: Starting up df::GameManager: {'type': 'df::GameManager','started': ,'eventCount': 0,'events': [],'frameTime': 0,'gameOver': 1}
+[2020-04-15 20:33:24] INFO: Inserting active, solid, and visible saucer(0): {"id":0,true,"altitude":3,"animation":{"name":"","index":0,"slowdownCount":0,"sprite":},"box":{"corner":{"x":0,"y":0},"horizontal":1,"vertical":1},"direction":{"x":0,"y":0},"eventCount":0,"events":[]true,"position":{"x":0,"y":0},"solidness":"hard","speed":0,"type":"saucer","visible":true}
+[2020-04-15 20:33:24] INFO: WorldManager.insertObject: 
+[2020-04-15 20:33:24] INFO: Inserting active, solid, and visible hero(1): {"id":1,true,"altitude":3,"animation":{"name":"","index":0,"slowdownCount":0,"sprite":},"box":{"corner":{"x":0,"y":0},"horizontal":1,"vertical":1},"direction":{"x":0,"y":0},"eventCount":0,"events":[]true,"position":{"x":7,"y":15},"solidness":"hard","speed":0,"type":"hero","visible":true}
+[2020-04-15 20:33:24] INFO: WorldManager.insertObject: 
+[2020-04-15 20:33:26] INFO: Shutting down df::InputManager: {'type': 'df::InputManager','started': 1,'eventCount': 1,'events': [0: 'df::KeyboardEvent']}
+[2020-04-15 20:33:26] INFO: Shutting down df::DisplayManager: {'type': 'df::DisplayManager','started': 1,'eventCount': 0,'events': []}
+[2020-04-15 20:33:26] INFO: Removing active, solid, and visible saucer(0): {"id":0,true,"altitude":3,"animation":{"name":"","index":0,"slowdownCount":0,"sprite":{"label": "saucer","color": {"background": "40m","foreground": "[0;32;"},"frameCount": 5,"frames": [0: {"frame": " ____ /____\","height": 2,"width": 6},1: {"frame": " ____ /___o\","height": 2,"width": 6},2: {"frame": " ____ /__o_\","height": 2,"width": 6},3: {"frame": " ____ /_o__\","height": 2,"width": 6},4: {"frame": " ____ /o___\","height": 2,"width": 6}],"height": 2,"maxFrameCount": 5,"slowdown": 4,"transparency": ,"width": 6}},"box":{"corner":{"x":0,"y":0},"horizontal":6,"vertical":2},"direction":{"x":-1,"y":0},"eventCount":0,"events":[]true,"position":{"x":169,"y":11},"solidness":"hard","speed":0.25,"type":"saucer","visible":true}
+[2020-04-15 20:33:26] INFO: Shutting down df::WorldManager: {'type': 'df::WorldManager','started': 1,'eventCount': 0,'events': []}
+[2020-04-15 20:33:26] INFO: Removing saucer 0

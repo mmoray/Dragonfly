@@ -1,0 +1,45 @@
+<HEADER>
+frames 8
+width 5
+height 3
+color red
+bgcolor black
+slowdown 1
+</HEADER>
+<BODY>
+     
+  *  
+     
+end
+  *  
+ *** 
+  *  
+end
+ *** 
+ *.* 
+ *** 
+end
+ .** 
+**.**
+ *.* 
+end
+ *** 
+*. .*
+ *** 
+end
+ * . 
+.   *
+ * * 
+end
+    *
+*    
+    *
+end
+    .
+.    
+     
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

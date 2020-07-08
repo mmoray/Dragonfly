@@ -1,0 +1,9 @@
+{
+    "name": "dragonfly/transistor",
+    "description": "DragonFly Game Engine - Transistor Game",
+    "autoload": {
+        "psr-4": {
+            "Transistor\\": "src/"
+        }
+    }
+}

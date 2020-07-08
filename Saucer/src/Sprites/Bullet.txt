@@ -1,0 +1,17 @@
+<HEADER>
+frames 2
+width 2
+height 1
+color cyan
+bgcolor black
+slowdown 5
+</HEADER>
+<BODY>
+>-
+end
+>:
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>
